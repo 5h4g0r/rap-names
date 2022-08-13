@@ -9,12 +9,12 @@ const rappers = {
         'birthName': 'Sheyaa Bin Abraham-Joseph',
         'birthLocation': 'London, England'
     },
-    'Kanye': {
+    'kanye': {
         'age': 45,
         'birthName': 'Kanye Omari West',
         'birthLocation': 'Atlanta, Georgia'
     },
-    'Drake': {
+    'drake': {
         'age': 35,
         'birthName': 'Aubrey Drake Graham',
         'birthLocation': 'Toronto, Ontario'
